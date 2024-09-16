@@ -1,7 +1,7 @@
 <?php
 
 function saludo(){
-    return "Hola, bienvenido a Despliegue de aplicaciones web";
+    return "Hola desde la rama funcionalidad-1, bienvenido a Despliegue de aplicaciones web";
 }
 
 function saludo_personalizado($nombre){
